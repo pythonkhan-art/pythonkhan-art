@@ -158,6 +158,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pythonkhan-art&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
@@ -171,6 +173,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/snake-output/snake.svg" alt="Snake animation" />
 
