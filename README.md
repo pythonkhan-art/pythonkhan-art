@@ -161,8 +161,11 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pythonkhan-art&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -171,11 +174,5 @@
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/snake-output/snake.svg" alt="Snake animation" />
 
 ###
