@@ -1,11 +1,8 @@
+<h2 align="left">Hey What's Up? I'm Engr. Muhammad Rizwan Khan</h2>
 
-<h2 align="center">Hey What's Up? I'm Engr. Muhammad Rizwan Khan - 🔭 I’m currently working on GEN AI
-- 🌱 I’m currently learning Agentic AI
-- 👯 I’m looking to collaborate on Agents
-- 🤔 I’m looking for help with Python Coding 
-- 💬 Ask me about Related to Programming
-- 📫 How to reach me: rizviyousafzai123@gmail.com 
-- 😄 Pronouns: Engr. Mr MRK Usafzai</h2>
+###
+
+<p align="left">- 🔭 I’m currently working on GEN AI<br>- 🌱 I’m currently learning Agentic AI<br>- 👯 I’m looking to collaborate on Agents<br>- 🤔 I’m looking for help with Python Coding <br>- 💬 Ask me about Related to Programming<br>- 📫 How to reach me: rizviyousafzai123@gmail.com <br>- 😄 Pronouns: Engr. Mr MRK Usafzai</p>
 
 ###
 
@@ -158,5 +155,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pythonkhan-art&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/snake-output/snake.svg" alt="Snake animation" />
 
 ###
