@@ -10,8 +10,8 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/mrkusafzai" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/mrkusafzai" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/I_am_MRKUsafzai" target="_blank">
@@ -157,5 +157,9 @@
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pythonkhan-art/pythonkhan-art/snake-output/snake.svg" alt="Snake animation" />
 
 ###
